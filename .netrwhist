@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/anantabastola/Projects/curryswap-static/src'
+let g:netrw_dirhist_5='/Users/anantabastola/Projects/curryswap-static/src/contexts/Transactions'
+let g:netrw_dirhist_4='/Users/anantabastola/Projects/curryswap-static/src/contexts/SushiProvider'
+let g:netrw_dirhist_3='/Users/anantabastola/Projects/curryswap-static/src/components/MobileMenu'
+let g:netrw_dirhist_2='/Users/anantabastola/Projects/curryswap-static/src/contexts/Modals'
+let g:netrw_dirhist_1='/Users/anantabastola/Projects/curryswap-static/src'
