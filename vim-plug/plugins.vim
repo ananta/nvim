@@ -33,7 +33,12 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
 
-call plug#end()
+    " FZF 
+    Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+    Plug 'junegunn/fzf.vim'
+    Plug 'airblade/vim-rooter' 
+
+    call plug#end()
 
 " Automatically install missing plygins on startup
 autocmd VimEnter *
