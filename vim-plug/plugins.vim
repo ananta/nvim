@@ -38,6 +38,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'junegunn/fzf.vim'
     Plug 'airblade/vim-rooter' 
 
+    " Autoclose tags
+    Plug 'alvan/vim-closetag' 
     call plug#end()
 
 " Automatically install missing plygins on startup
